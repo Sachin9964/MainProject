@@ -12,6 +12,9 @@ table 50120 Student
         field(2;Name;Code[20]){
             
         }
+        field(3;Address;Code[100]){
+            
+        }
     }
     
     keys
