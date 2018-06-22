@@ -15,6 +15,9 @@ table 50120 Student
         field(3;Address;Code[100]){
             
         }
+        field(4;MobileNumber;Integer){
+            
+        }
     }
     
     keys
