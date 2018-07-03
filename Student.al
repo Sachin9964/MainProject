@@ -48,7 +48,7 @@ table 50120 Student
     
     trigger OnRename()
     begin
-        
+        //Project Management
     end;
     
 }
