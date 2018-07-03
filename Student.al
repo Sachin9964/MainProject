@@ -45,7 +45,7 @@ table 50120 Student
     
     trigger OnRename()
     begin
-        //HiHarshil
+        //HiHarshil Patel
     end;
     
 }
